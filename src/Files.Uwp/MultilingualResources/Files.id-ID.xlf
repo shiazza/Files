@@ -240,7 +240,7 @@
         </trans-unit>
         <trans-unit id="WelcomeDialog.Title" translate="yes" xml:space="preserve">
           <source>Welcome to Files!</source>
-          <target state="translated">Selamat datang di Files!</target>
+          <target state="translated">Selam di file!</target>
         </trans-unit>
         <trans-unit id="WelcomeDialog.PrimaryButtonText" translate="yes" xml:space="preserve">
           <source>Grant Permission</source>
@@ -1252,7 +1252,7 @@
         </trans-unit>
         <trans-unit id="PropertySectionMusic" translate="yes" xml:space="preserve">
           <source>Music</source>
-          <target state="translated">Musik</target>
+          <target state="translated">Lagu</target>
         </trans-unit>
         <trans-unit id="PropertySectionVideo" translate="yes" xml:space="preserve">
           <source>Video</source>
@@ -3481,7 +3481,7 @@ Kami menggunakan Pusat App untuk melacak penggunaan aplikasi, menemukan bug, dan
         </trans-unit>
         <trans-unit id="Music" translate="yes" xml:space="preserve">
           <source>Music</source>
-          <target state="translated">Musik</target>
+          <target state="translated">Lagu</target>
         </trans-unit>
         <trans-unit id="Pictures" translate="yes" xml:space="preserve">
           <source>Pictures</source>
